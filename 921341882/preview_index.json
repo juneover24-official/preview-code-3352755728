@@ -1,7 +1,7 @@
 {
   "qq_number": "3352755728",
   "group_number": "921341882",
-  "updated_at": "2026-10-02T09:22:53+00:00",
+  "updated_at": "2026-10-02T09:23:00+00:00",
   "skins": [
     {
       "name": "心心羊の约定",
@@ -32,6 +32,12 @@
       "file": "心心羊の空白页9.bds",
       "thumb": "心心羊の空白页9.bds_py_26_light_thumb.png",
       "full": "心心羊の空白页9.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "心心羊の空白页",
+      "file": "心心羊の空白页11.bdi",
+      "thumb": "心心羊の空白页11.bdi_py_26_light_thumb.png",
+      "full": "心心羊の空白页11.bdi_py_26_light_thumb.png"
     }
   ]
 }
